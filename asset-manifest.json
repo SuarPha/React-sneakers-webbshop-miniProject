@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-sneakers-webbshop-miniProject/static/css/main.1221d8e7.css",
-    "main.js": "/React-sneakers-webbshop-miniProject/static/js/main.98f1c13b.js",
+    "main.css": "/React-sneakers-webbshop-miniProject/static/css/main.e46c572e.css",
+    "main.js": "/React-sneakers-webbshop-miniProject/static/js/main.ca81b99a.js",
     "static/js/787.92521952.chunk.js": "/React-sneakers-webbshop-miniProject/static/js/787.92521952.chunk.js",
     "static/media/fashion-unsplash.jpg": "/React-sneakers-webbshop-miniProject/static/media/fashion-unsplash.a75ad7270fa4b2d9bafc.jpg",
     "static/media/converse.jpg": "/React-sneakers-webbshop-miniProject/static/media/converse.2ca80ebf8eaa2fa8ac94.jpg",
     "static/media/payment.png": "/React-sneakers-webbshop-miniProject/static/media/payment.79098b984c7af4377a6b.png",
     "index.html": "/React-sneakers-webbshop-miniProject/index.html",
-    "main.1221d8e7.css.map": "/React-sneakers-webbshop-miniProject/static/css/main.1221d8e7.css.map",
-    "main.98f1c13b.js.map": "/React-sneakers-webbshop-miniProject/static/js/main.98f1c13b.js.map",
+    "main.e46c572e.css.map": "/React-sneakers-webbshop-miniProject/static/css/main.e46c572e.css.map",
+    "main.ca81b99a.js.map": "/React-sneakers-webbshop-miniProject/static/js/main.ca81b99a.js.map",
     "787.92521952.chunk.js.map": "/React-sneakers-webbshop-miniProject/static/js/787.92521952.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1221d8e7.css",
-    "static/js/main.98f1c13b.js"
+    "static/css/main.e46c572e.css",
+    "static/js/main.ca81b99a.js"
   ]
 }
