@@ -13,7 +13,7 @@ const Checkout = () => {
   return (
     <Layout>
       <>
-        <h1>Shopping Cart</h1>
+        <h1 className="page-title">Shopping Cart</h1>
         {cartItems.length === 0 ? (
           <div className="empty-cart"> Your Cart is empty</div>
         ) : (

@@ -1,10 +1,9 @@
 .nav-menu {
   display: flex;
-  padding: 0 2rem;
+  padding: 5rem;
   background-color: #f7f9f8;
   justify-content: space-evenly;
   align-items: center;
-  
 }
 a {
   text-decoration: none;
@@ -18,8 +17,8 @@ a {
 ul {
   list-style-type: none;
   font-size: 20px;
-  margin: 3rem 0;
-  padding-left: 95rem;
+  margin: 2rem 0;
+  padding-left: 50rem;
 }
 li {
   display: inline-block;

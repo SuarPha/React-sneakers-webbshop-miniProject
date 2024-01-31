@@ -45,7 +45,7 @@ const SHOP_DATA = [
   },
   {
     id: 1467325,
-    title: "Whites",
+    title: "Whites X's ",
     description:
       "Quo neque error repudiandae fuga? Ipsa laudantium molestias eos \n sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam\n recusandae alias error harum maxime adipisci amet laborum.",
     price: 149,
@@ -56,7 +56,7 @@ const SHOP_DATA = [
   },
   {
     id: 1467326,
-    title: "Off-White x Nike Lemonade Air Force 1s",
+    title: "Nike X Lemonade Air Force",
     description:
       "Quo neque error repudiandae fuga? Ipsa laudantium molestias eos \n sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam\n recusandae alias error harum maxime adipisci amet laborum.",
     price: 1099,
