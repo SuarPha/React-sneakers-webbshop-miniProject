@@ -12,12 +12,14 @@ const Shop = () => {
 
   return (
     <Layout>
-      <div className="product-list-container">
-        <h2 className="product-list-title">Shop</h2>
-        <div className="product-list">{allProducts}</div>
+      <div className="product-container">
+        <h1 className="page-title">Shop</h1>
+        <hr/>
+        <div className="products">{allProducts}</div>
       </div>
     </Layout>
   );
 };
 
 export default Shop;
+    

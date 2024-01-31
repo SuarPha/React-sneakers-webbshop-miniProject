@@ -1,4 +1,4 @@
-h1,
+
 .empty-cart {
   text-align: center;
 }
@@ -15,6 +15,7 @@ h1,
 .name-price {
   display: flex;
   justify-content: space-around;
+  align-items: center;
 }
 .name-price h4 {
   margin: 0;

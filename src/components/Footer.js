@@ -18,7 +18,7 @@ const Left = styled.div`
   flex: 1;
   display: flex;
   flex-direction: column;
-  padding: 50px;
+  padding: 5rem;
 `;
 const Logo = styled.h1`
   margin-right: 200px:
@@ -30,7 +30,7 @@ const Desc = styled.p`
 `;
 const SocialContainer = styled.div`
   display: flex;
-  padding 100px;
+  margin: 5rem 0;
 `;
 const SocialIcon = styled.div`
   width: 40px;
@@ -49,7 +49,7 @@ const SocialIcon = styled.div`
 
 const Right = styled.div`
   flex: 1;
-  padding: 50px;
+  padding: 5rem;
 `;
 const ContactTitle = styled.h2`
   padding-top: 20px 0px;
@@ -63,7 +63,7 @@ const ContactInfo = styled.div`
   align-items: center;
 `;
 const Payment = styled.img`
-  width: 70%;
+  width: 80%;
 `;
 
 const CopyRighter = styled.div`
@@ -119,7 +119,7 @@ const Footer = () => {
         <Payment src={payment} alt="" />
       </Right>
       <CopyRighter>
-        <p>Copyright &copy; 2022</p>
+        <p>Copyright &copy; 2023</p>
       </CopyRighter>
     </Container>
   );

@@ -1,13 +1,16 @@
-.product-list-container {
-  margin: 3rem 0;
-  margin-right: 20px;
-  padding: 20px;
+.product-container{
+  margin: 5rem;
 }
-.product-list-title {
-  margin-top: 5rem;
+.page-title {
+  font-size: 50px;
   text-align: center;
 }
-.product-list div {
-  margin: 1rem;
-  cursor: pointer;
-}
+
+@media screen and (max-width: 970px) { 
+  .product-list{
+      grid-template-columns: 1fr;
+      }
+      .product-card{
+        height: 100%;
+      }
+    }

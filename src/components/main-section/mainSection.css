@@ -2,12 +2,23 @@
   width: 70%;
   margin: 3rem auto;
 }
+.main-section-middle {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+  gap: 100px;
+}
+.main-section-middle-2{
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+}
 .ms-m-image img {
-  width: 100%;
+  width: 500px;
   height: 100%;
 }
 h2 {
-  font-size: 1.1rem;
+  font-size: 30px;
 }
 
 .ms-m-description p {
@@ -24,10 +35,7 @@ button:hover span {
     right: 0;
    }
 @media (min-width: 1024px) {
-  .main-section-middle {
-    display: flex;
-    justify-content: space-between;
-  }
+  
   .ms-m-image {
     max-width: 545px;
     flex: 1 0 545px;

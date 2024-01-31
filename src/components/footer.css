@@ -1,0 +1,59 @@
+.container{
+    display: flex;
+    background-color: #f7f9f8;
+}
+.left{
+    flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+.right{
+    flex: 1;
+    padding: 50px;
+}
+.logo h1{
+    margin-right: 200px;
+}
+.desc p{
+    margin: 30px 0px;
+  font-family: "Urbanist", sans-serif;
+}
+.socialContainer{
+    display: flex;
+    padding: 100px;
+}
+.socialIcon{
+    width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20px;
+  
+}
+.contactTitle {
+    padding-top: 20px 0px;
+}
+.contactInfo {
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-family: "Urbanist", sans-serif;
+    display: flex;
+    align-items: center;
+}
+.payment img{
+    width: 70%;
+}
+.copyRighter{
+    padding: 0.5rem;
+    background-color: rgb(43, 120, 126);
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    color: #fff;
+}

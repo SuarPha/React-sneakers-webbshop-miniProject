@@ -19,8 +19,9 @@ const FeaturedProduct = (props) => {
         <img src={imgUrl} alt="product" />
       </div>
       <div className="name-price">
-        <h3>{title}</h3>
-        <p> $ {price}</p>
+        <h2>{title}</h2>
+        <span> $ {price}</span>
+        <div className="btn">
         {!itemInCart && (
           <button
             className="button add-to-cart"
@@ -29,6 +30,14 @@ const FeaturedProduct = (props) => {
             <span>ADD TO CART</span>
           </button>
         )}
+        <button
+            className="button is-blue"
+            id="shop now"
+            onClick={() => history.push(`/product/${id}`)}
+          >
+            CLICK ME!
+          </button>
+          </div>
         {itemInCart && (
           <button className="button add-more" onClick={() => increase(product)}>
             ADD MORE

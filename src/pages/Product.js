@@ -29,11 +29,11 @@ const Product = ({ match, history: { push } }) => {
   const itemInCart = isInCart(product, cartItems);
   return (
     <Layout>
-      <div className="Container">
+      <div className="container">
         <div className="single-product-container">
           <div className="wrapper">
             <div className="product-img">
-              <img src={imgUrl} alt="product" />
+              <img className="images" src={imgUrl} alt="product" />
             </div>
             <div className="product-details">
               <div className="name-price">
