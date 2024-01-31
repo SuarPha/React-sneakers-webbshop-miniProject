@@ -2,8 +2,9 @@
   display: flex;
   padding: 5rem;
   background-color: #f7f9f8;
-  justify-content: space-evenly;
+  justify-content: space-between;
   align-items: center;
+  
 }
 a {
   text-decoration: none;
@@ -18,7 +19,7 @@ ul {
   list-style-type: none;
   font-size: 20px;
   margin: 2rem 0;
-  padding-left: 50rem;
+  padding-left: 15rem;
 }
 li {
   display: inline-block;
